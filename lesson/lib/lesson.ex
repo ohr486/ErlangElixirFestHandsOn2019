@@ -15,4 +15,9 @@ defmodule Lesson do
   def hello do
     :world
   end
+
+  # 3-1
+  def myfunc do
+    "hello, world."
+  end
 end
