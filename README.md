@@ -2,6 +2,8 @@
 
 ## チャット
 
+[![Join the chat at https://gitter.im/ErlangElixirFestHandsOn2019/community](https://badges.gitter.im/ErlangElixirFestHandsOn2019/community.svg)](https://gitter.im/ErlangElixirFestHandsOn2019/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ハンズオン用にGitterのチャットルームを作成しました。
 [こちら](https://gitter.im/ErlangElixirFestHandsOn2019/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)からjoinしてください。
 
